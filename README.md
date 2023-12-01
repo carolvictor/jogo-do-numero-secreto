@@ -2,4 +2,4 @@
 
 Projeto final do curso de programação da Alura
 
-Disponível no [link](jogo-numero-secreto-five-flax.vercel.app)
+Disponível no [link](https://jogo-numero-secreto-five-flax.vercel.app/)
